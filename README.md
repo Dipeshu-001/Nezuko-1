@@ -95,7 +95,7 @@ To keep it on forever
 
 | <a href="https://github.com/Toshi-san001"><img src="https://github.com/Toshi-san001.png?size=100" width="100" height="100"></a> | [![Arin](https://github.com/Arin1601.png?size=100)](https://github.com/Arin1601)               |
 | ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| [Toshi_Sama](https://github.com/Toshi-san001)                                                                                   | [Arin](https://github.com/Arin1601)                                                            |
+| [Toshi_Sama](https://github.com/Dipeshu-001)                                                                                   | [Arin](https://github.com/Arin1601)                                                            |
 | Useless Worker                                                                                                                  | Contributor                                                                                    |
 | <a href="https://github.com/Debanjan-San"><img src="https://github.com/Debanjan-San.png?size=100" width="100" height="100"></a> | [![Alι_Aryαɴ](https://github.com/AliAryanTech.png?size=100)](https://github.com/AliAryanTech)  |
 | [Debanjan-San](https://github.com/Debanjan-San)                                                                                 | [Alι_Aryαɴ](https://github.com/AliAryanTech)                                                   |
